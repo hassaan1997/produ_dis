@@ -1,17 +1,18 @@
-# produ_dis
+# How to run
+
 Move into the directory where we have the project files : 
 
 
 
-Create a virtual environment :
+#Create a virtual environment :
 
-# Let's install virtualenv first
-pip install virtualenv
+Let's install virtualenv first :
+/pip install virtualenv
 
-# Then we create our virtual environment
-virtualenv envname
+Then we create our virtual environment:
+/virtualenv envname
 
-#Activate the virtual environment :
+Activate the virtual environment :
 envname\scripts\activate
 
 Install the requirements :
